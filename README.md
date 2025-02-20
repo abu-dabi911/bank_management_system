@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bank Management System
 
 ## 📌 Project Description
@@ -110,3 +111,6 @@ Now, visit [127.0.0.1:8000](http://127.0.0.1:8000/)
 📌 **Author**: [Abdugaffar Omerbek]  
 📌 **GitHub**: [Repository Link]
 
+=======
+# bank_management_system
+>>>>>>> a677628db52823daca38e725b7c8fa227505e43e
